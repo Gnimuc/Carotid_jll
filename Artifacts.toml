@@ -1,9 +1,9 @@
 [[Carotid]]
 arch = "x86_64"
-git-tree-sha1 = "4caa822e10e857c041e7f18fb387d78d872e631b"
+git-tree-sha1 = "5987658f73800ae38fbc63bd95d089450587fab5"
 libc = "glibc"
 os = "linux"
 
     [[Carotid.download]]
-    sha256 = "aafcdbe488ce3d31be895116221cbe2fa7e5a92633ec215215ff89d6acb1f948"
-    url = "https://github.com/local/releases/download/Carotid-v0.1.0+0/Carotid.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "425ce88af2ba2b7f56cc670563d53baa0562cc64de9ac9cda59821cbf38650d8"
+    url = "https://github.com/local/releases/download/Carotid-v0.1.1+0/Carotid.v0.1.1.x86_64-linux-gnu.tar.gz"
