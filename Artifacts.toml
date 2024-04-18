@@ -6,4 +6,4 @@ os = "linux"
 
     [[Carotid.download]]
     sha256 = "425ce88af2ba2b7f56cc670563d53baa0562cc64de9ac9cda59821cbf38650d8"
-    url = "https://github.com/Gnimuc/Carotid_jll/releases/download/Carotid-v0.1.1+0/Carotid.v0.1.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/Gnimuc/Carotid_jll/releases/download/Carotid-v0.1.1+1/Carotid.v0.1.1.x86_64-linux-gnu.tar.gz"
